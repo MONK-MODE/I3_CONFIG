@@ -75,7 +75,7 @@ Examples:
 
 2) https://www.youtube.com/watch?v=kWRQoLFntQc
 
-# Icons :
+### Icons :
 
 3) https://www.nerdfonts.com/cheat-sheet
 
