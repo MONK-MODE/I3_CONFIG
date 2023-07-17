@@ -10,7 +10,7 @@
 
 3) https://github.com/i3/i3lock
 
-# ${{\color{purple}Lniux Terminal}}\ $
+# ${{\color{purple}Linux Terminal}}\ $
 
 ### DOC 
 
