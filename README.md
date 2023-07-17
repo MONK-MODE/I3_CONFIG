@@ -6,7 +6,7 @@
 
 2) https://github.com/meskarune/i3lock-fancy
 
-
+3) https://github.com/i3/i3lock
 
 
 
