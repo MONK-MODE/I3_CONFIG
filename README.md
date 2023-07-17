@@ -8,10 +8,14 @@
 
 3) https://github.com/i3/i3lock
 
+# ${{\color{purple}Lniux Terminal}}\ $
+
+### DOC 
+
+1) https://www.geeksforgeeks.org/how-to-make-linux-terminal-look-awesome/
 
 
 
+# ${{\color{purple}Change Color Palette According to the Wallpaper}}\ $
 
-
-
-
+### PYWAL
