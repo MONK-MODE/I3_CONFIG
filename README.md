@@ -2,6 +2,8 @@
 
 1) https://github.com/vishalmry/i3-rice
 
+#Config I3 in .config/i3/config
+
 # ${{\color{purple}Lock Screen}}\ $
 
 1) https://github.com/Raymo111/i3lock-color
