@@ -20,7 +20,9 @@
 
 3) https://dev.to/mikgross/ultimate-terminal-customization-51c7
 
-4) https://www.freecodecamp.org/news/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38/ 
+4) https://www.freecodecamp.org/news/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38/
+
+5) https://dev.to/arthurborges/3-setting-an-awesome-terminal-part-2-5dh9
 
 # ${{\color{purple}Change Color Palette According to the Wallpaper}}\ $
 
