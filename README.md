@@ -62,8 +62,9 @@ Examples:
 4) https://github.com/jimeh/tmux-themepack
 
 
-  
+# ${{\color{purple}Vidéo}}\ $
 
+1) https://www.youtube.com/watch?v=bdumjiHab
 
 
 
