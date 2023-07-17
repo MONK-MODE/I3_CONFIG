@@ -50,3 +50,31 @@ Examples:
 
 ``Purple sky 1920x1080``
 
+
+# ${{\color{purple}Rice tmux}}\ $
+
+1) https://www.fosslinux.com/81276/change-colors-in-tmux.htm
+
+2) https://medium.com/hackernoon/a-gentle-introduction-to-tmux-8d784c404340
+
+3) https://medium.com/hackernoon/a-gentle-introduction-to-tmux-8d784c404340
+
+4) https://github.com/jimeh/tmux-themepack
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
