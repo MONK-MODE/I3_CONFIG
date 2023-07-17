@@ -14,7 +14,9 @@
 
 1) https://www.geeksforgeeks.org/how-to-make-linux-terminal-look-awesome/
 
+2) https://www.imaginelinux.com/linux-terminal-customization/
 
+3) https://dev.to/mikgross/ultimate-terminal-customization-51c7
 
 # ${{\color{purple}Change Color Palette According to the Wallpaper}}\ $
 
