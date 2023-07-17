@@ -79,6 +79,10 @@ Examples:
 
 3) https://www.nerdfonts.com/cheat-sheet
 
+### Vidéo :
+
+4) https://www.youtube.com/watch?v=kWRQoLFntQc
+
 # ${{\color{purple}Vidéo}}\ $
 
 1) https://www.youtube.com/watch?v=bdumjiHab
