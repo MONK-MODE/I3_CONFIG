@@ -24,5 +24,12 @@
 
 # ${{\color{purple}Wallpapers}}\ $
 
-
-1) https://www.pxfuel.com/en/query?q=unixporn
+1) http://wallhaven.cc/
+2) 
+3) https://www.toptal.com/designers/subtlepatterns/
+4) 
+5) https://www.reddit.com/r/wallpapers/
+6) 
+7) https://unsplash.com/fr
+8) 
+9) https://www.pxfuel.com/en/query?q=unixporn
