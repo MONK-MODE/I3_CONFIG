@@ -65,6 +65,11 @@ Examples:
 
 4) https://github.com/jimeh/tmux-themepack
 
+# ${{\color{purple}Polybar}}\ $
+
+1) https://github.com/polybar/polybar
+
+
 
 # ${{\color{purple}Vidéo}}\ $
 
