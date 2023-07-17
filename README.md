@@ -71,7 +71,7 @@ Examples:
 
 1) https://github.com/polybar/polybar
 
-
+``cp /etc/polybar/config.ini polybar``
 
 # ${{\color{purple}Vidéo}}\ $
 
