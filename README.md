@@ -73,6 +73,8 @@ Examples:
 
 ``cp /etc/polybar/config.ini polybar``
 
+2) https://www.youtube.com/watch?v=kWRQoLFntQc
+
 # ${{\color{purple}Vidéo}}\ $
 
 1) https://www.youtube.com/watch?v=bdumjiHab
