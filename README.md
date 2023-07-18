@@ -91,6 +91,8 @@ Examples:
 
 3) https://github.com/adi1090x/rofi
 
+4) https://www.youtube.com/watch?v=SAlIDmSa6Aw
+
 Create theme in the directory :
 
 ``/home/$user/.local/share/rofi/theme``
@@ -163,9 +165,9 @@ element {
 
 }
 
+# ${{\color{purple}Neovim}}\ $
 
-
-
+1) https://builtin.com/software-engineering-perspectives/neovim-configuration
 
 # ${{\color{purple}Vidéo}}\ $
 
