@@ -2,6 +2,8 @@
 
 1) https://github.com/vishalmry/i3-rice
 
+2) https://github.com/aimen08/dotfiles
+
 #Config I3 in .config/i3/config
 
 # ${{\color{purple}Lock Screen}}\ $
