@@ -93,7 +93,9 @@ Examples:
 
 3) https://github.com/adi1090x/rofi
 
-4) https://www.youtube.com/watch?v=SAlIDmSa6Aw
+4) https://www.youtube.com/watch?v=TutfIwxSE_s
+
+5) https://www.youtube.com/watch?v=SAlIDmSa6Aw
 
 Create theme in the directory :
 
