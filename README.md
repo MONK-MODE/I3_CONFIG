@@ -83,6 +83,90 @@ Examples:
 
 4) https://www.youtube.com/watch?v=kWRQoLFntQc
 
+# ${{\color{purple}Rofi}}\ $
+
+1) https://colorhunt.co/palletes
+
+2) https://www.youtube.com/watch?v=a-KEPMjZ1CI
+
+3) https://github.com/adi1090x/rofi
+
+Create theme in the directory :
+
+``/home/$user/.local/share/rofi/theme``
+
+New theme :
+
+``Name.rasi``
+
+* {
+  width: 40; # la longueur de rofi
+  show-icons: true;
+  icon-theme : "Papirus";
+  
+  bg: #443C68;
+  hv: #635985;
+  txt: #fff;
+  ug: #443C68;
+
+  background-color: @bg;
+  dark: @bg;
+  border: 0px;
+}
+
+window {
+  width: 520;
+  location: center;
+  ancor: center;
+  spacing: 0;
+  children: [mainbox];
+  orientation: horizontal;
+}
+
+mainbox {
+children: [ inputbar, message, listview ];
+}
+
+message {
+  padding: 5px;
+}
+
+inputbar {
+  color: @txt;
+  padding: 11px;
+  border: 0px 0px 2px 0px;
+  border-color: @txt;
+}
+
+entry,prompt,case-indicator {
+  text-font: inherit;
+  text-color: inherit;
+}
+
+prompt {
+  margin: 0px 5px 0px 0px;
+}
+
+listview {
+  lines; 15;
+}
+
+entry {
+  placeholder: "";
+  cursor: text;
+}
+
+element {
+  padding: 8px;
+  vertical-align: 0.5;
+  color: @txt;
+
+}
+
+
+
+
+
 # ${{\color{purple}Vidéo}}\ $
 
 1) https://www.youtube.com/watch?v=bdumjiHab
